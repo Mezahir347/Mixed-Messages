@@ -1,9 +1,9 @@
 # Mixed-Messages (Codecademy project)
 
 ## Contents:
-* Description
-* Technology
-* Project Status
+* [Description](#description)
+* [Technology](#technology)
+* [Project Status](#project-status)
 
 ## Description
 This is a CodeCademy portfolio project, the purpose of the project is to generate random **Inspirational  Quotes** for every run.
